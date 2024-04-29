@@ -6,9 +6,11 @@
 install.packages("readxl")
 install.packages("httr")
 install.packages("grpreg")
+install.packages("ncvreg")
 library("httr")
 library("readxl")
 library("grpreg")
+library("ncvreg")
 # Import Data Excel Into R From Github Olah Data Semarang (timbulwidodostp)
 github_link <- "https://github.com/timbulwidodostp/grpreg/raw/main/grpreg/grpreg.xlsx"
 temp_file <- tempfile(fileext = ".xlsx")
