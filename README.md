@@ -3,6 +3,8 @@ Regularization paths for regression models with grouped covariates Use grpreg Wi
 
 Fit a group penalized regression path grpreg With (In) R Software
 
+https://www.youtube.com/watch?v=3t2DfLqiGNo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
